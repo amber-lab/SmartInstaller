@@ -1,6 +1,5 @@
 # SmartInstaller
 Aplicação GUI que permite instalar uma lista de software de terceiros em Sistemas Windows.\
-Criada durante estágio em LG-Informática - Valpaços.\
 
 ## Estado
 Em desenvolvimento.
@@ -11,6 +10,3 @@ Instação e atualização de lista de software utilitário de terceiros a parti
 ## Tecnologias
 - Python
 - Tkinter
-
-## Lançamento
-Usado durante estágio profissional numa loja de Informática.
