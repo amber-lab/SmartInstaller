@@ -2,7 +2,7 @@
 Aplicação GUI que permite instalar uma lista de software de terceiros em Sistemas Windows.\
 Criada de maneira a facilitar funções de estágio durante Formação Profissional na área de Eletrónica, Automação e computadores, assim como melhoria de programação GUI e Orientada a Objetos.
 
-![SmartInstall]("./apresentação/smartinstall.png")
+![SmartInstall](./apresentação/smartinstall.png)
 
 # Estado
 Em desenvolvimento.
