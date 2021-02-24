@@ -29,7 +29,7 @@ class MainApp(tk.Tk):
         mainframe.pack()
         if 'temp' not in listdir():
             mkdir('temp')
-        ilg_label = tk.Label(mainframe, text = "Smart Install\nInformática LG", font = ("Verdana", 15), bg = "grey", fg = "black")
+        ilg_label = tk.Label(mainframe, text = "Smart Install", font = ("Verdana", 15), bg = "grey", fg = "black")
         ilg_label.grid(row = 0, column = 0)
         
         ccleaner = {'nomes' : ['ccsetup.exe'],
