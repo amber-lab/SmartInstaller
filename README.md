@@ -7,8 +7,12 @@ Criada de maneira a facilitar funções de estágio durante Formação Profissio
 # Estado
 Em desenvolvimento.
 
+# Desafios
+- Introdução á Programação orientada a Objetos
+- Introdução á Progamação de interface gráfica
+
 # Funcionalidades
-Instação e atualização de lista de software utilitário de terceiros a partir de uma lista de seleção.
+Instalação e atualização de lista de software utilitário de terceiros a partir de uma lista de seleção.
 
 # Futuras atualizações
 - Permitir escolher entre offline e online
@@ -20,7 +24,7 @@ Instação e atualização de lista de software utilitário de terceiros a parti
 - Melhoria de mensagens de erros
 
 # Versões anteriores
-Inicialmente interface de linha de comandos e versão offline.\
+Inicialmente interface de linha de comandos e versão offline.
 
 # Tecnologias
 - Python3
@@ -34,6 +38,6 @@ Para a criação do executável é usada a biblioteca "cx_Freeze" em "setup.py".
 ### Software
 Corresponde ao objeto que tratará dos dados de cada software, assim como atualização, download e execução silenciosa do comando caracteristico a cada um.
 ### Linha
-Corresponde ao objeto Gráfico de cada Software, incluindo imagem, botão de verificação e estado do instalação.
+Corresponde ao objeto Gráfico de cada Software, incluindo imagem, botão de verificação e estado da instalação.
 ### Main_app
 Classe principal que contém informações de cada software, assim como gestão de threads e remoção de ficheiros temporários após instalação.
