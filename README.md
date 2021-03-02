@@ -8,8 +8,8 @@ Criada de maneira a facilitar funções de estágio durante Formação Profissio
 Em desenvolvimento.
 
 # Desafios
-- Introdução á Programação orientada a Objetos
-- Introdução á Progamação de interface gráfica
+- Introdução à Programação orientada a Objetos
+- Introdução à Progamação de interface gráfica
 
 # Funcionalidades
 Instalação e atualização de lista de software utilitário de terceiros a partir de uma lista de seleção.
